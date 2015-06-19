@@ -1,0 +1,28 @@
+{
+  "name": "clothes-shop",
+  "version": "0.0.1",
+  "authors": [
+    "Augustinas Markevicius <augustinas.markevicius@gmail.com>"
+  ],
+  "main": "server.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/augustinas/clothes-shop",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "angular": "~1.4.0",
+    "mean": "*"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.1"
+  }
+}
